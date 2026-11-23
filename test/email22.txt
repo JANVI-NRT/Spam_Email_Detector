@@ -1,0 +1,6 @@
+Subject: question about the regression results
+
+Hi Professor,
+I ran the regression on the new data set and the coefficients look different from last week. I think the problem is the missing values in the second column. Could we discuss this in our meeting on Thursday?
+Thank you,
+Arjun

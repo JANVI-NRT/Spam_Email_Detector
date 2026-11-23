@@ -1,0 +1,3 @@
+Subject: your password expires today, Urgent!
+
+Dear user, your email account password will expire today. To keep using your mailbox, click here and verify your username and password immediately. Failure to verify will result in account suspension.
